@@ -4,6 +4,6 @@
   <remote name="github"
            fetch="https://github.com/" />
 
-<project name="zanezam/boeffla-kernel-cm-bacon" remote="github" revision="boeffla_v3_cm_sm484" />
+<project path="kernel" name="andip71/boeffla-kernel-cm-bacon" remote="github" revision="boeffla_v3_cm" />
 
 </manifest>
